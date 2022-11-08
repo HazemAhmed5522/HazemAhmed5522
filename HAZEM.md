@@ -5,6 +5,6 @@
 - 📫 How to reach me without knowing me...
 
 <!---
-HazemAhmed5522/HazemAhmed5522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HazemAhmed5522/HazemAhmed5522 is a ✨ special ✨ repository because its `HAZEM.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
